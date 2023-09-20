@@ -270,6 +270,12 @@ img {
   color: #E1670E;
 }
 
+.header__btn-search {
+  padding: 0;
+  background: none;
+  border: none;
+}
+
 .header__search {
   margin-right: 22px;
   width: 24px;

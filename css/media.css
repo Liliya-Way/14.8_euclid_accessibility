@@ -419,18 +419,18 @@
         }
 
         .header__logo {
-          /* justify-content: center; */
-          /* flex-shrink: 0; */
-          /* width: 110px;
-          max-width: 100%;
-          width: 100%; */
-          max-width: 100%;
+          min-width: 110px;
           height: 35px;
-          /* height: 100%; */
         }
 
         .header__link {
            
+        }
+
+        .header__btn-search {
+          padding: 0;
+          background: none;
+          border: none;
         }
 
         .header__search {
