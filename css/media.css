@@ -424,9 +424,7 @@
         }
 
         .header__btn-search {
-          padding: 0;
-          background: none;
-          border: none;
+          transform: translateX(-60px);
         }
 
         .header__search {
